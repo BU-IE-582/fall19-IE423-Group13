@@ -11,3 +11,6 @@ We are the Group 13. Our group members are:
 ## Project Part 1
 [Here](files/Group%2013%20Project%20part%201.html) is our Project Part 1.
 
+## Project Part 2
+[Here](files/Group%2013%20Project%20Part%202.html) is our Project Part 2.
+
