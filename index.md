@@ -8,7 +8,6 @@ We are the Group 13. Our group members are:
 5. Yavuzhan Yavuz
 
 
-
 ## Project Part 1
 [Here](files/Group%2013%20Project%20part%201.html) is our Project Part 1.
 
